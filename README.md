@@ -3,10 +3,11 @@
 - Diana
 - Ketlina
 - Eve
+- Rezija
 
 ## our skills
 - Java
-- Python
+- Python 🐍
 - Github
 - R
 - 
