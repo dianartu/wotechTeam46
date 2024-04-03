@@ -1,4 +1,4 @@
-# wellcome to wotechTeam46
+# Welcome to WotechTeam46 🚀
 ## our team and main contributors 😎
 - Diana
 - Ketlina
@@ -6,11 +6,11 @@
 - Rezija
 
 ## our skills
-- Java
+- Java 🌟
 - Python 🐍
-- Github
-- Replit
-- Google colab
+- Github 🐱
+- Replit 🦎
+- Google colab 👯‍♀️
 ## our best projects
 - tbc 😊
 
