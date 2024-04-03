@@ -9,8 +9,8 @@
 - Java
 - Python 🐍
 - Github
-- R
-- 
+- Replit
+- Google colab
 ## our best projects
 - tbc 😊
 
